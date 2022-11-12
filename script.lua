@@ -4,8 +4,8 @@
 local RemoteIgnores = {
 	["RemoteFunction"] = true;
 	["RemoteEvent"] = true;
-	["BindableFunction"] = false;
-	["BindableEvent"] = false;
+	["BindableFunction"] = true;
+	["BindableEvent"] = true;
 }
 
 ------------------------------------------
